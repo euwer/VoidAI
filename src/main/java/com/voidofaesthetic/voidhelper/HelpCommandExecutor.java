@@ -75,6 +75,6 @@ public class HelpCommandExecutor implements CommandExecutor {
         } catch (IOException e) {
             e.printStackTrace();
         }
-        return "Yapay zekadan cevap alinamadi.";
+        return "Couldnt get the answer from the AI.";
     }
 }
