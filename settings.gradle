@@ -1,0 +1,6 @@
+rootProject.name = 'void ai'
+buildCache {
+    local {
+        enabled = true
+    }
+}

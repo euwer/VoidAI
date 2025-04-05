@@ -1,0 +1,8 @@
+name: voidhelper
+version: '1.0-SNAPSHOT'
+main: com.voidofaesthetic.voidhelper.Voidhelper
+api-version: '1.21'
+commands:
+  soru:
+    description: Ask help from the AI
+    usage: /soru <question>
